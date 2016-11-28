@@ -1,0 +1,73 @@
+{
+  "configs": [
+    {
+      "server": "158.69.223.144",
+      "server_port": 9245,
+      "password": "7jQWBtn7CZ",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "158.69.212.186",
+      "server_port": 9245,
+      "password": "7jQWBtn7CZ",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "158.69.212.21",
+      "server_port": 9245,
+      "password": "7jQWBtn7CZ",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    }
+  ],
+  "strategy": "com.shadowsocks.strategy.scbs",
+  "index": -1,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "availabilityStatistics": true,
+  "autoCheckUpdate": false,
+  "isVerboseLogging": true,
+  "logViewer": {
+    "fontName": "Consolas",
+    "fontSize": 8.0,
+    "bgColor": "Black",
+    "textColor": "White",
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": true,
+    "width": 600,
+    "height": 400,
+    "top": 338,
+    "left": 766,
+    "maximized": true
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "ChangeToPac": "",
+    "ChangeToGlobal": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Calculations": {
+    "AverageLatency": 1.0,
+    "MinLatency": 1.0,
+    "MaxLatency": 1.0,
+    "AverageInboundSpeed": 1.0,
+    "MinInboundSpeed": 1.0,
+    "MaxInboundSpeed": 1.0,
+    "AverageOutboundSpeed": 1.0,
+    "MinOutboundSpeed": 1.0,
+    "MaxOutboundSpeed": 1.0,
+    "AverageResponse": 1.0,
+    "MinResponse": 1.0,
+    "MaxResponse": 1.0,
+    "PackageLoss": 1.0
+  },
+  "StatisticsEnabled": true,
+  "ByHourOfDay": true,
+  "Ping": true,
+  "ChoiceKeptMinutes": 10,
+  "DataCollectionMinutes": 10,
+  "RepeatTimesNum": 4
+}
