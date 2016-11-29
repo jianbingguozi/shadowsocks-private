@@ -1,7 +1,7 @@
 {
   "configs": [
     {
-      "server": "158.69.223.144",
+      "server": "158.69.212.21",
       "server_port": 9245,
       "password": "7jQWBtn7CZ",
       "method": "aes-256-cfb",
@@ -19,7 +19,7 @@
       "timeout": 5
     },
     {
-      "server": "158.69.212.21",
+      "server": "158.69.223.144",
       "server_port": 9245,
       "password": "7jQWBtn7CZ",
       "method": "aes-256-cfb",
@@ -28,10 +28,10 @@
       "timeout": 5
     }
   ],
-  "strategy": "com.shadowsocks.strategy.scbs",
+  "strategy": "com.shadowsocks.strategy.ha",
   "index": -1,
-  "global": false,
-  "enabled": true,
+  "global": true,
+  "enabled": false,
   "shareOverLan": false,
   "isDefault": false,
   "localPort": 1080,
