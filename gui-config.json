@@ -28,10 +28,10 @@
       "timeout": 5
     }
   ],
-  "strategy": "com.shadowsocks.strategy.ha",
+  "strategy": "com.shadowsocks.strategy.scbs",
   "index": -1,
-  "global": true,
-  "enabled": false,
+  "global": false,
+  "enabled": true,
   "shareOverLan": false,
   "isDefault": false,
   "localPort": 1080,

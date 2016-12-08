@@ -8,6 +8,11 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "|http://rt.cn2k.net",
+  "||btsou.org",
+  "|http://aria2.sourceforge.net",
+  "||jiumodiary.com",
+  "|https://tw.answers.yahoo.com",
   "||shadowsocks.asia",
   "||openwrt.org.cn",
   "||gitbooks.io",
