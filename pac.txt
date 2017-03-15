@@ -8,6 +8,9 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||github.io",
+  "|https://blog.phpgao.com",
+  "|http://prometheus.freize.net",
   "|http://rt.cn2k.net",
   "||btsou.org",
   "|http://aria2.sourceforge.net",

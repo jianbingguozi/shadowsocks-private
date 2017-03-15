@@ -2,26 +2,26 @@
   "configs": [
     {
       "server": "158.69.212.21",
-      "server_port": 10619,
-      "password": "wUewhG754D",
+      "server_port": 9245,
+      "password": "7jQWBtn7CZ",
       "method": "aes-256-cfb",
       "remarks": "",
       "auth": false,
       "timeout": 5
     },
     {
-      "server": "69.197.149.43",
-      "server_port": 10619,
-      "password": "wUewhG754D",
+      "server": "158.69.212.186",
+      "server_port": 9245,
+      "password": "7jQWBtn7CZ",
       "method": "aes-256-cfb",
       "remarks": "",
       "auth": false,
       "timeout": 5
     },
     {
-      "server": "149.56.44.241",
-      "server_port": 10619,
-      "password": "wUewhG754D",
+      "server": "158.69.223.144",
+      "server_port": 9245,
+      "password": "7jQWBtn7CZ",
       "method": "aes-256-cfb",
       "remarks": "",
       "auth": false,
